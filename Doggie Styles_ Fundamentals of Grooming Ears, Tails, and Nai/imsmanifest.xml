@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<manifest identifier="Cprau6Lbm9lgcvugQ1c-iY6V7yUKql4lBMD_QwYr" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Doggie Styles: Fundamentals of Grooming Ears, Tails, and Nails</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Doggie Styles: Fundamentals of Grooming Ears, Tails, and Nails</title>
+        <adlcp:datafromlms>eyJjcHYiOiJCTURfUXdZciIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/ccf34c2a.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/3499478a.js" />
+<file href="scormcontent/lib/rise/8d2582e1.css" />
+<file href="scormcontent/lib/rise/92cfbcb6.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/Xh3Pnv_uVdBeKQGI_small.png" />
+<file href="scormcontent/assets/rucZYBqokvxQf29L_16_nature.jpg" />
+<file href="scormcontent/assets/UbHUYvUKbh9ZNpCv_47_abstract.jpg" />
+<file href="scormcontent/assets/MYuwaZO42hH0C58v_transcoded-rO-NlNebNm8c5XRE-_25D0_259F_25D1_2580_25D0_25B8_25D0_25BC_25D0_25BC_25D0_25B5_25D1_2580__25D1_2581__25D0_25BE_25D1_2588_25D0_25B8_25D0_25B1_25D0_25BA_25D0_25BE_25D0_25B8_25CC_2586_short_1-00001.png" />
+<file href="scormcontent/assets/ITtekVAMOKrWcGgI_10_financial.jpg" />
+<file href="scormcontent/assets/OSMV2W-_Hq5IEpGi_5_cities.jpg" />
+<file href="scormcontent/assets/rVf0BeqZennmlw-f_2_tech.jpg" />
+<file href="scormcontent/assets/XNmtDesxYr-R87g__2_tech.jpg" />
+<file href="scormcontent/assets/yaIPDsuo01ttLlEs_example-header-image.jpg" />
+        
+
+    </resource>
+  </resources>
+</manifest>
